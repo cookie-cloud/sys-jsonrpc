@@ -1,0 +1,23 @@
+{
+    "name": "hoge/cloud/syc/jsonrpc",
+    "description": "sys jsonrpc service for hoge cloud",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/cookie-cloud/sys-jsonrpc",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SysJsonrpc\\Src\\": "src/"
+        },
+        "files": []
+    },
+    "authors": [
+        {
+            "name": "hoge",
+            "email": "zhoutao@hoge.cn"
+        }
+    ],
+    "minimum-stability": "stable"
+}
