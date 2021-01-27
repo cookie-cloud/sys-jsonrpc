@@ -1,5 +1,5 @@
 {
-    "name": "hoge/syc-jsonrpc",
+    "name": "hoge/sys-jsonrpc",
     "description": "sys jsonrpc service for hoge cloud",
     "license": "Apache-2.0",
     "homepage": "https://github.com/cookie-cloud/sys-jsonrpc",
